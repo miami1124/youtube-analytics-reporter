@@ -52,7 +52,7 @@
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "NN橫式",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1lLubxQnjer6GH1jdbNcoYBielf1A6BMmzI5Qjv-xhys/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID_1/edit#gid=0"
         },
         "options": {}
       },
@@ -170,7 +170,7 @@
         "operation": "append",
         "documentId": {
           "__rl": true,
-          "value": "https://docs.google.com/spreadsheets/d/1EKV4uor7dVikADRAm43fT30N48lTLzbgDcNia-A99Z4/edit?usp=sharing",
+          "value": "https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID_2/edit?usp=sharing",
           "mode": "url"
         },
         "sheetName": {
@@ -604,17 +604,17 @@
       "parameters": {
         "documentId": {
           "__rl": true,
-          "value": "1ZolJvQSqzOAl6UNERbzbSsbqh2JPfnqY1mbEpYrxgfg",
+          "value": "OUR_SPREADSHEET_ID_3",
           "mode": "list",
           "cachedResultName": "年度工作紀錄表單連結",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1ZolJvQSqzOAl6UNERbzbSsbqh2JPfnqY1mbEpYrxgfg/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/OUR_SPREADSHEET_ID_3/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "工作紀錄表單",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1ZolJvQSqzOAl6UNERbzbSsbqh2JPfnqY1mbEpYrxgfg/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/OUR_SPREADSHEET_ID_3/edit#gid=0"
         },
         "options": {}
       },
