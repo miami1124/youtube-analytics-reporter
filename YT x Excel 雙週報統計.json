@@ -266,7 +266,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 3bouDFiYSJjywpeabD92StKA4igBAhENo0c/lAkJFnT8kayLLZfd6fs9ROjsX63civT82dWltwFjr9qf7dqRg91LmLEOh4w3MxsLfyILwqKEIwS7MV9YcQLpwDbQIYJTKhfLRytnlk/Hz9a5ls00HQdB04t89/1O/w1cDnyilFU="
+              "value": "YOUR_LINE_CHANNEL_ACCESS_TOKEN"
             }
           ]
         },
