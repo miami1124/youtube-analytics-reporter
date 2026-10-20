@@ -84,7 +84,7 @@
           "value": 2051667824,
           "mode": "list",
           "cachedResultName": "NN短影音",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1lLubxQnjer6GH1jdbNcoYBielf1A6BMmzI5Qjv-xhys/edit#gid=2051667824"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/<試算表ID>/edit#gid=2051667824"
         },
         "options": {}
       },
@@ -178,7 +178,7 @@
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "橫式",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1EKV4uor7dVikADRAm43fT30N48lTLzbgDcNia-A99Z4/edit#gid=0"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/<試算表ID>/edit#gid=0"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -360,7 +360,7 @@
         "operation": "append",
         "documentId": {
           "__rl": true,
-          "value": "https://docs.google.com/spreadsheets/d/1EKV4uor7dVikADRAm43fT30N48lTLzbgDcNia-A99Z4/edit?usp=sharing",
+          "value": "https://docs.google.com/spreadsheets/d/<試算表ID>/edit?usp=sharing",
           "mode": "url"
         },
         "sheetName": {
@@ -368,7 +368,7 @@
           "value": 1658563140,
           "mode": "list",
           "cachedResultName": "短影音",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1EKV4uor7dVikADRAm43fT30N48lTLzbgDcNia-A99Z4/edit#gid=1658563140"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/<試算表ID>/edit#gid=1658563140"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -589,7 +589,7 @@
     },
     {
       "parameters": {
-        "jsCode": "// 強制只回傳一筆資料，讓後續節點（LINE）只跑一次\nreturn [\n  {\n    json: {\n      message: \"雙週報數據已完成✅https://docs.google.com/spreadsheets/d/1EKV4uor7dVikADRAm43fT30N48lTLzbgDcNia-A99Z4/edit?usp=sharing\"\n    }\n  }\n];"
+        "jsCode": "// 強制只回傳一筆資料，讓後續節點（LINE）只跑一次\nreturn [\n  {\n    json: {\n      message: \"雙週報數據已完成✅https://docs.google.com/spreadsheets/d/<試算表ID>/edit?usp=sharing\"\n    }\n  }\n];"
       },
       "id": "6d019e44-eea8-44fc-b2d7-761dded2ca99",
       "name": "統整",
